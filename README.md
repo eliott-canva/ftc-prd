@@ -4,7 +4,7 @@ This repository stores Product Requirements Documents (PRDs) for the **Feature C
 
 ## Structure
 
-Add PRDs as markdown files, organized by feature or initiative.
+Add Product Requirements Docs (PRDs) and Design Requirement Docs (DRDs) as markdown files, organized by feature or initiative.
 
 ## Questions?
 
